@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Le site de Fred
 ---
 
